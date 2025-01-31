@@ -4,4 +4,4 @@ DatasallyNG is *making this fun* at the beginning
 this is also looking more like programming - tor!
 ## testing basic syntax
 there are many more syntax cheat codes on markdowncheatsheet webpage
-
+this cheat page is a go to for learning more syntax
