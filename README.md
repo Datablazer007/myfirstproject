@@ -10,4 +10,4 @@ there are many more syntax cheat codes on markdowncheatsheet webpage
 
 this cheat page is a go to for learning more syntax
 
-this is getting interesting
+*this is getting interesting*
